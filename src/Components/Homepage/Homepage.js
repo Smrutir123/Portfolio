@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./Homepage.css"; // Ensure this has the appropriate styles
 import AbrarImage from "./smsir.jfif"; // Import the image
-import CV from "./Smrutiranjancv.pdf"; // Import the CV PDF
+import CV from "./Smrutiranajncv.pdf"; // Import the CV PDF
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons";
 import {
