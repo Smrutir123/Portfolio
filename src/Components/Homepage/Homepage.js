@@ -54,12 +54,12 @@ const Homepage = () => {
         <div className="about">{jobTitle}</div>
         <div className="moreabout">
           <br />
-          I am Smrutiranjan Jena, an experienced IT professional with over 7+
+          I am Smrutiranjan Jena, an experienced IT professional with over 7
           years in manual and API testing across diverse domains like
           e-commerce, transport, and ERP applications.
           <br />
           <br />
-          My expertise includes functional testing, SDLC/STLC methodologies, and
+          My expertise includes manual,functional testing, SDLC/STLC methodologies, and
           tools like Jira, Postman, and JMeter, ensuring quality software
           solutions." .......
         </div>
