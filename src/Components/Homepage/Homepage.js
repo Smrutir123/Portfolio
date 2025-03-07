@@ -1,4 +1,4 @@
-+import React, { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import "./Homepage.css"; // Ensure this has the appropriate styles
 import AbrarImage from "./smsir.jfif"; // Import the image
 import CV from "./Smrutiranajncv.pdf"; // Import the CV PDF
@@ -54,7 +54,7 @@ const Homepage = () => {
         <div className="about">{jobTitle}</div>
         <div className="moreabout">
           <br />
-          I am Smrutiranjan Jena, an experienced IT professional with over 8
+          I am Smrutiranjan Jena, an experienced IT professional with over 7
           years in manual and API testing across diverse domains like
           e-commerce, transport, and ERP applications.
           <br />
